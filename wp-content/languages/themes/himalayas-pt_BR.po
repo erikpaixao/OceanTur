@@ -1,0 +1,1180 @@
+# Translation of Themes - Himalayas in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Himalayas package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 03:13:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Himalayas\n"
+
+#. Description of the plugin/theme
+msgid "Himalayas is modern style free one page parallax responsive WordPress theme. Inform your visitors all they need to know right from your home page without requiring to go to the other pages. Himalayas can be used for business, portfolio, corporate, agency, photography, freelancers and almost any kind of sites. Get free support at http://themegrill.com/support-forum/ and check the demo at http://demo.themegrill.com/himalayas/"
+msgstr "Himalayas é um moderno tema WordPress responsivo, página única e com paralaxe. Informe aos seus visitantes o que eles precisam saber agora mesmo diretamente a partir da página inicial do site sem que eles precisem entrar em outras páginas. Himalayas pode ser usado para websites de negócios, portfolio, agências, fotografia e mais. Receba suporte gratuito em http://themegrill.com/support-forum/ e confira a demonstração do tema em http://demo.themegrill.com/himalayas/"
+
+#. #-#-#-#-#  himalayas.pot (Himalayas 1.0.8)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/admin/class-himalayas-admin.php:349
+msgid "Himalayas"
+msgstr "Himalayas"
+
+#: inc/widgets/widgets.php:472 inc/widgets/widgets.php:785
+#: inc/widgets/widgets.php:1039
+msgid "Select an Image"
+msgstr "Selecione uma imagem"
+
+#: inc/widgets/widgets.php:472 inc/widgets/widgets.php:785
+#: inc/widgets/widgets.php:1039
+msgid "Use image"
+msgstr "Usar imagem"
+
+#: inc/widgets/widgets.php:472 inc/widgets/widgets.php:785
+#: inc/widgets/widgets.php:1039
+msgid "Choose an image"
+msgstr "Escolha uma imagem"
+
+#: inc/widgets/widgets.php:83
+msgid "Shows widgets on footer sidebar three."
+msgstr "Mostrar widgets no rodapé na lateral Três."
+
+#: inc/widgets/widgets.php:73
+msgid "Shows widgets on footer sidebar two."
+msgstr "Mostrar widgets no rodapé na lateral Dois."
+
+#: inc/widgets/widgets.php:63
+msgid "Shows widgets on footer sidebar one."
+msgstr "Mostrar widgets no rodapé na lateral Um."
+
+#: inc/admin/class-himalayas-admin.php:488 inc/customizer.php:442
+msgid "View Pro"
+msgstr "Ver Pro"
+
+#: inc/admin/class-himalayas-admin.php:480
+msgid "TG: Fun Facts"
+msgstr "TG: Fatos curiosos"
+
+#: inc/admin/class-himalayas-admin.php:475
+msgid "TG: Our Clients"
+msgstr "TG: Nossos clientes"
+
+#: inc/admin/class-himalayas-admin.php:470
+msgid "TG: Testimonial Widget"
+msgstr "TG: Widget Depoimentos"
+
+#: inc/admin/class-himalayas-admin.php:465
+msgid "TG: Image Gallery Widget"
+msgstr "TG: Widget de galeria"
+
+#: inc/admin/class-himalayas-admin.php:427
+msgid "Emails/Priority Support Ticket"
+msgstr "Tíquete de suporte E-mails/Prioridade"
+
+#: inc/admin/class-himalayas-admin.php:426
+msgid "Forum"
+msgstr "Fórum"
+
+#: inc/admin/class-himalayas-admin.php:420
+msgid "Demo Content"
+msgstr "Conteúdo demosntrativo"
+
+#: inc/admin/class-himalayas-admin.php:415
+msgid "Footer Copyright Editor"
+msgstr "Editor dos créditos no rodapé"
+
+#: inc/admin/class-himalayas-admin.php:410
+msgid "WPML Compatible"
+msgstr "Compatível com WPML"
+
+#: inc/admin/class-himalayas-admin.php:405
+msgid "Woocommerce Page Layout"
+msgstr "Layout de página WooCommerce"
+
+#: inc/admin/class-himalayas-admin.php:400
+msgid "WooCommerce Compatible"
+msgstr "Compatível com WooCommerce"
+
+#: inc/admin/class-himalayas-admin.php:395
+msgid "Font Size options"
+msgstr "Opção de tamanho da fonte"
+
+#: inc/admin/class-himalayas-admin.php:392
+msgid "Primary color option & 18+"
+msgstr "Opções de cor primária & +18"
+
+#: inc/admin/class-himalayas-admin.php:391
+msgid "Primary Color Option"
+msgstr "Cor primária"
+
+#: inc/admin/class-himalayas-admin.php:390
+msgid "Color Palette"
+msgstr "Paleta de cores"
+
+#: inc/admin/class-himalayas-admin.php:387
+msgid "500+"
+msgstr "+500"
+
+#: inc/admin/class-himalayas-admin.php:385
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/admin/class-himalayas-admin.php:382
+msgid "2"
+msgstr "2"
+
+#: inc/admin/class-himalayas-admin.php:381
+msgid "1"
+msgstr "1"
+
+#: inc/admin/class-himalayas-admin.php:380
+msgid "Slider text layout"
+msgstr "Layout de slider com texto"
+
+#: inc/admin/class-himalayas-admin.php:375
+msgid "Header Video"
+msgstr "Cabeçalho com vídeo"
+
+#: inc/admin/class-himalayas-admin.php:372
+msgid "Slides type, duration & delay time"
+msgstr "Tipos de slides, duração e tempo de atraso"
+
+#: inc/admin/class-himalayas-admin.php:367
+msgid "Unlimited Slides"
+msgstr "Slides ilimitados"
+
+#: inc/admin/class-himalayas-admin.php:366
+msgid "4 Slides"
+msgstr "4 Slides"
+
+#: inc/admin/class-himalayas-admin.php:360
+msgid "Parallax Scrolling"
+msgstr "Rolagem Paralaxe"
+
+#: inc/admin/class-himalayas-admin.php:355
+msgid "Use as One Page theme"
+msgstr "Usar como tema de Página ùnica"
+
+#: inc/admin/class-himalayas-admin.php:350
+msgid "Himalayas Pro"
+msgstr "Himalayas Pro"
+
+#: inc/admin/class-himalayas-admin.php:348
+msgid "Features"
+msgstr "Características"
+
+#: inc/admin/class-himalayas-admin.php:325
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/admin/class-himalayas-admin.php:322
+msgid "Polylang"
+msgstr "Polylang"
+
+#: inc/admin/class-himalayas-admin.php:320
+#: inc/admin/class-himalayas-admin.php:323
+#: inc/admin/class-himalayas-admin.php:326
+msgid "Fully Compatible in Pro Version"
+msgstr "Totalmente compatível na versão Pro"
+
+#: inc/admin/class-himalayas-admin.php:319
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/class-himalayas-admin.php:318
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#: inc/admin/class-himalayas-admin.php:317
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/admin/class-himalayas-admin.php:314
+msgid "Easy Social Sharing"
+msgstr "Compartilhamento social fácil"
+
+#: inc/admin/class-himalayas-admin.php:312
+#: inc/admin/class-himalayas-admin.php:315
+msgid " by ThemeGrill"
+msgstr "por ThemeGrill"
+
+#: inc/admin/class-himalayas-admin.php:311
+msgid "Social Icons"
+msgstr "Ícones sociais"
+
+#: inc/admin/class-himalayas-admin.php:309
+msgid "This theme recommends following plugins:"
+msgstr "Este tema recomenda os seguintes plugins:"
+
+#: inc/admin/class-himalayas-admin.php:257
+msgid "View changelog below:"
+msgstr "Ver log de mudanças abaixo:"
+
+#: inc/admin/class-himalayas-admin.php:240
+msgid "Go to Dashboard"
+msgstr "Ir para o painel"
+
+#: inc/admin/class-himalayas-admin.php:240
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Ir para Painel &rarr; Início"
+
+#: inc/admin/class-himalayas-admin.php:237
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Voltar para Painel &rarr; Atualizações"
+
+#: inc/admin/class-himalayas-admin.php:237
+msgid "Return to Updates"
+msgstr "Voltar para atualizações"
+
+#: inc/admin/class-himalayas-admin.php:221
+msgid "Click below to translate this theme into your own language."
+msgstr "Clique abaixo para traduzir este tema para seu idioma."
+
+#: inc/admin/class-himalayas-admin.php:217
+#: inc/admin/class-himalayas-admin.php:225
+msgid "Translate"
+msgstr "Traduzir"
+
+#: inc/admin/class-himalayas-admin.php:211
+msgid "Contact Page"
+msgstr "Página de contato"
+
+#: inc/admin/class-himalayas-admin.php:210
+msgid "Please send it via our sales contact page."
+msgstr "Envie através da nossa página de contato de vendas."
+
+#: inc/admin/class-himalayas-admin.php:209
+msgid "Got sales related question?"
+msgstr "Possui uma dúvida com relação a venda?"
+
+#: inc/admin/class-himalayas-admin.php:204
+#: inc/admin/class-himalayas-admin.php:343
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Faça o upgrade para a versão PRO e tenha funcionalidades incríveis."
+
+#: inc/admin/class-himalayas-admin.php:203
+msgid "Need more features?"
+msgstr "Precisa de mais funcionalidades?"
+
+#: inc/admin/class-himalayas-admin.php:198
+msgid "Please put it in our dedicated support forum."
+msgstr "Escreva em nosso fórum exclusivo de suporte."
+
+#: inc/admin/class-himalayas-admin.php:197
+msgid "Got theme support question?"
+msgstr "Possui uma dúvida de suporte?"
+
+#: inc/admin/class-himalayas-admin.php:192
+msgid "Please view our documentation page to setup the theme."
+msgstr "Por favor, veja a nossa página de documentação para configurar o tema."
+
+#: inc/admin/class-himalayas-admin.php:187
+msgid "Customize"
+msgstr "Personalizar"
+
+#: inc/admin/class-himalayas-admin.php:186
+msgid "All Theme Options are available via Customize screen."
+msgstr "Todas as Opções do Tema estão disponíveis via Personalizar"
+
+#: inc/admin/class-himalayas-admin.php:185
+msgid "Theme Customizer"
+msgstr "Personalizador de tema"
+
+#: inc/admin/class-himalayas-admin.php:151
+msgid "Changelog"
+msgstr "Log de alterações"
+
+#: inc/admin/class-himalayas-admin.php:148
+msgid "Free Vs Pro"
+msgstr "Grátis vs. Pro"
+
+#: inc/admin/class-himalayas-admin.php:145
+msgid "Supported Plugins"
+msgstr "Plugins suportados"
+
+#: inc/admin/class-himalayas-admin.php:95
+msgid "Get started with Himalayas"
+msgstr "Começar com o Himalayas"
+
+#: inc/admin/class-himalayas-admin.php:93
+msgid "Welcome! Thank you for choosing Himalayas! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Bem-vindo! Obrigado por escolher Himalayas! Para usufruir de todos os recursos que nosso tema oferece, visite %swelcome page%s."
+
+#: inc/admin/class-himalayas-admin.php:92
+msgid "Dismiss"
+msgstr "Remover"
+
+#: inc/admin/class-himalayas-admin.php:78
+msgid "Cheatin&#8217; huh?"
+msgstr "Trapaceando hein!?"
+
+#: inc/admin/class-himalayas-admin.php:74
+msgid "Action failed. Please refresh the page and retry."
+msgstr "A ação falhou. Por favor, atualize a página e tente novamente."
+
+#: inc/admin/class-himalayas-admin.php:36
+#: inc/admin/class-himalayas-admin.php:116
+msgid "About"
+msgstr "Sobre"
+
+#: inc/customizer.php:474
+msgid "Himalayas Important Links"
+msgstr "Links importantes sobre o Himalayas"
+
+#: inc/customizer.php:450
+msgid "Support Forum"
+msgstr "Fórum de suporte"
+
+#: inc/widgets/widgets.php:599
+msgid "Note: Enter the Portfolio Section ID and use same for Menu item."
+msgstr "Nota: Entre o ID da seção de Portfolio e use o mesmo para o item de menu."
+
+#: inc/widgets/widgets.php:581
+msgid "Display some pages as Portfolio"
+msgstr "Mostrar algumas páginas como Portfolio"
+
+#: search.php:26
+msgid "Search Results:"
+msgstr "Resultados da Pesquisa:"
+
+#: inc/functions.php:390
+msgid "Powered by %s."
+msgstr "Powered by %s."
+
+#: inc/functions.php:390
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s. "
+
+#: inc/functions.php:386
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/admin/class-himalayas-admin.php:135
+#: inc/admin/class-himalayas-admin.php:205
+msgid "View PRO version"
+msgstr "Conheça a versão PRO"
+
+#: inc/admin/class-himalayas-admin.php:131 inc/customizer.php:446
+msgid "Theme Info"
+msgstr "Informações do tema"
+
+#: inc/customizer.php:486
+msgid "Important Links"
+msgstr "Links que são muito importantes"
+
+#: inc/admin/class-himalayas-admin.php:137 inc/customizer.php:462
+msgid "Rate this theme"
+msgstr "Avalie este tema"
+
+#: inc/admin/class-himalayas-admin.php:133 inc/customizer.php:458
+msgid "View Demo"
+msgstr "Ver demonstração"
+
+#: inc/admin/class-himalayas-admin.php:199
+#: inc/admin/class-himalayas-admin.php:425
+msgid "Support"
+msgstr "Suporte"
+
+#: inc/admin/class-himalayas-admin.php:191
+#: inc/admin/class-himalayas-admin.php:193 inc/customizer.php:454
+msgid "Documentation"
+msgstr "Documentação"
+
+#. Template Name of the plugin/theme
+msgid "Our Team Template"
+msgstr "Modelo Nosso Time"
+
+#. Template Name of the plugin/theme
+msgid "Service Template"
+msgstr "Modelo Serviço"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Template"
+msgstr "Modelo Portfolio"
+
+#: sidebar.php:19
+msgid "This is an example widget to show how the Right Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Este é um exemplo de widget para mostrar como a lateral direta parece por padrão. Você pode adicionar widgets personalizados de %swidgets screen%s. Se os widgets personalizados forem adicionados eles serão substituídos por aqueles widgets."
+
+#: sidebar-left.php:19
+msgid "This is an example widget to show how the Left Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Este é um exemplo de widget para mostrar como a lateral esquerda parece por padrão. Você pode adicionar widgets personalizados de %swidgets screen%s. Se os widgets personalizados forem adicionados eles serão substituídos por aqueles widgets."
+
+#: sidebar-left.php:18 sidebar.php:18
+msgid "Example Widget"
+msgstr "Widget de exemplo"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Pesquisar"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Pesquisar &hellip;"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aparentemente não pudemos encontrar o que você está procurando. Talvez uma busca ajude."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr "Próximo &rarr;"
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: inc/widgets/widgets.php:1243
+msgid "Shortcode"
+msgstr "Plugin shortcode"
+
+#: inc/widgets/widgets.php:1241
+msgid "Use Contact Form Plugin and enter the shortcode here:"
+msgstr "Use o plugin Contact Form e digite o shortcode aqui:"
+
+#: inc/widgets/widgets.php:1237
+msgid "Select a Contact page."
+msgstr "Selecione uma página de contato."
+
+#: inc/widgets/widgets.php:1225
+msgid "Contact Section ID:"
+msgstr "ID da seção Contato:"
+
+#: inc/widgets/widgets.php:1222
+msgid "Note: Enter the Contact Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Nota: entre o ID da seção Contato e use o mesmo para o item de menu. Apenas usado para o menu de Página única."
+
+#: inc/admin/class-himalayas-admin.php:460 inc/widgets/widgets.php:1204
+msgid "TG: Contact Us Widget"
+msgstr "TG: Widget Contate-nos"
+
+#: inc/widgets/widgets.php:1202
+msgid "Show your Contact page."
+msgstr "Mostrar sua Página de Contato."
+
+#: inc/widgets/widgets.php:1056
+msgid "Note: Create the pages and select Our Team Template to display Our Team pages."
+msgstr "Nota: crie as páginas e selecione o modelo Nosso time para mostrar páginas Nosso time."
+
+#: inc/widgets/widgets.php:1031
+msgid "Background Image:"
+msgstr "Imagem de fundo:"
+
+#: inc/widgets/widgets.php:1020
+msgid "Our Team Section ID:"
+msgstr "ID da seção Nosso time:"
+
+#: inc/widgets/widgets.php:1018
+msgid "Note: Enter the Our Team Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Nota: entre o ID da seção Nosso time e use o mesmo para o item de menu. Apenas usado para o menu de Página única."
+
+#: inc/admin/class-himalayas-admin.php:455 inc/widgets/widgets.php:997
+msgid "TG: Our Team Widget"
+msgstr "TG: Widget Nosso time"
+
+#: inc/widgets/widgets.php:995
+msgid "Show your Team Members."
+msgstr "Mostrar os membros do seu time."
+
+#: inc/widgets/widgets.php:947
+msgid "<span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+msgstr "<span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+
+#: inc/widgets/widgets.php:939
+msgid "on "
+msgstr "em"
+
+#: inc/widgets/widgets.php:934
+msgid "by "
+msgstr "por"
+
+#: inc/widgets/widgets.php:929
+msgid "Posted in "
+msgstr "Postado em"
+
+#: inc/widgets/widgets.php:809
+msgid "Select category"
+msgstr "Selecionar categoria"
+
+#: inc/widgets/widgets.php:805
+msgid "Show posts from a category"
+msgstr "Exibir posts de uma categoria"
+
+#: inc/widgets/widgets.php:804
+msgid "Show latest Posts"
+msgstr "Exibir últimos posts"
+
+#: inc/widgets/widgets.php:766
+msgid "Featured Post Section ID:"
+msgstr "ID da seção Post destacado:"
+
+#: inc/widgets/widgets.php:764
+msgid "Note: Enter the Featured Post Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Nota: entre o ID da seção Post destacado e use o mesmo para o item de menu. Apenas usado para o menu de Página única."
+
+#: inc/admin/class-himalayas-admin.php:450 inc/widgets/widgets.php:736
+msgid "TG: Featured Posts"
+msgstr "TG: Posts destacados"
+
+#: inc/widgets/widgets.php:734
+msgid "Display latest posts or posts of specific category"
+msgstr "Mostrar posts recentes ou posts de uma categoria específica"
+
+#: inc/widgets/widgets.php:619
+msgid "Note: Create the pages and select Portfolio Template to display Portfolio pages."
+msgstr "Nota: crie as páginas e selecione o modelo Portfolio para mostrar páginas Portfolio."
+
+#: inc/widgets/widgets.php:799
+msgid "Number of posts to display:"
+msgstr "Quantidade de artigos para exibir:"
+
+#: inc/widgets/widgets.php:602
+msgid "Portfolio Section ID:"
+msgstr "ID da seção Portfolio:"
+
+#: inc/admin/class-himalayas-admin.php:445 inc/widgets/widgets.php:583
+msgid "TG: Portfolio"
+msgstr "TG: Portfólio"
+
+#: inc/widgets/widgets.php:494
+msgid "Layout Two"
+msgstr "Layout Dois"
+
+#: inc/widgets/widgets.php:493
+msgid "Layout One"
+msgstr "Layout Um"
+
+#: inc/widgets/widgets.php:490
+msgid "Choose the layout"
+msgstr "Escolha o layout"
+
+#: inc/widgets/widgets.php:480
+msgid "Call to Action Additional Text"
+msgstr "Texto adicional do Call to Action"
+
+#: inc/widgets/widgets.php:478
+msgid "Call to Action Main Text"
+msgstr "Texto principal do Call to action"
+
+#: inc/widgets/widgets.php:476 inc/widgets/widgets.php:789
+#: inc/widgets/widgets.php:1043
+msgid "OTHER SETTINGS :"
+msgstr "Outras configurações:"
+
+#: inc/widgets/widgets.php:464 inc/widgets/widgets.php:777
+msgid "Image:"
+msgstr "Imagem:"
+
+#: inc/widgets/widgets.php:460 inc/widgets/widgets.php:772
+#: inc/widgets/widgets.php:1026
+msgid "Background Color:"
+msgstr "Cor de fundo:"
+
+#: inc/widgets/widgets.php:459 inc/widgets/widgets.php:771
+#: inc/widgets/widgets.php:1024
+msgid "DESIGN SETTINGS :"
+msgstr "Configurações de design:"
+
+#: inc/admin/class-himalayas-admin.php:440 inc/widgets/widgets.php:436
+msgid "TG: Call To Action Widget"
+msgstr "TG: Call To Action Widget"
+
+#: inc/widgets/widgets.php:434
+msgid "Use this widget to show the call to action section."
+msgstr "Use esse widget para mostrar a seção de call to action."
+
+#: inc/widgets/widgets.php:305
+msgid "Note: Create the pages and select Services Template to display Services pages."
+msgstr "Nota: crie as páginas e selecione o modelo Serviços para mostrar páginas Serviços."
+
+#: inc/widgets/widgets.php:301 inc/widgets/widgets.php:615
+#: inc/widgets/widgets.php:1053
+msgid "Number of pages to display:"
+msgstr "Número de páginas para mostrar:"
+
+#: inc/widgets/widgets.php:288
+msgid "Service Section ID:"
+msgstr "ID da seção Serviço:"
+
+#: inc/widgets/widgets.php:285
+msgid "Note: Enter the Service Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Nota: entre o ID da seção Serviço e use o mesmo para o item de menu. Apenas usado para o menu de Página única."
+
+#: inc/admin/class-himalayas-admin.php:435 inc/widgets/widgets.php:269
+msgid "TG: Service Widget"
+msgstr "TG: Widget Serviço"
+
+#: inc/widgets/widgets.php:267
+msgid "Display some pages as services."
+msgstr "Exibir algumas páginas como serviços."
+
+#: inc/widgets/widgets.php:166
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> For Icon Class"
+msgstr "<a href=\"%s\" target=\"_blank\">Consulte aqui</a> as classes de ícones"
+
+#: inc/widgets/widgets.php:160
+msgid "Button Icon Class:"
+msgstr "Classe do ícone do botão:"
+
+#: inc/widgets/widgets.php:155 inc/widgets/widgets.php:487
+#: inc/widgets/widgets.php:818
+msgid "Button Redirect Link:"
+msgstr "Link de redirecionamento do botão:"
+
+#: inc/widgets/widgets.php:150 inc/widgets/widgets.php:483
+#: inc/widgets/widgets.php:814
+msgid "Button Text:"
+msgstr "Texto do botão:"
+
+#: inc/widgets/widgets.php:146 inc/widgets/widgets.php:1238
+msgid "Page"
+msgstr "Página"
+
+#: inc/widgets/widgets.php:145
+msgid "Select a page to display Title, Excerpt and Featured image."
+msgstr "Selecione uma página para mostrar Título, Resumo e Imagem destacada."
+
+#: inc/widgets/widgets.php:142 inc/widgets/widgets.php:297
+#: inc/widgets/widgets.php:611 inc/widgets/widgets.php:795
+#: inc/widgets/widgets.php:1049 inc/widgets/widgets.php:1234
+msgid "Description:"
+msgstr "Descrição:"
+
+#: inc/widgets/widgets.php:138 inc/widgets/widgets.php:293
+#: inc/widgets/widgets.php:607 inc/widgets/widgets.php:792
+#: inc/widgets/widgets.php:1046 inc/widgets/widgets.php:1230
+msgid "Title:"
+msgstr "Título"
+
+#: inc/widgets/widgets.php:133
+msgid "About Section ID:"
+msgstr "ID da seção Sobre:"
+
+#: inc/widgets/widgets.php:130
+msgid "Note: Enter the About Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Nota: entre o ID da seção Sobre e use o mesmo para o item de menu. Apenas usado para o menu de Página única."
+
+#: inc/admin/class-himalayas-admin.php:430 inc/widgets/widgets.php:108
+msgid "TG: About Widget"
+msgstr "TG: Widget Sobre"
+
+#: inc/widgets/widgets.php:106
+msgid "Show your about page."
+msgstr "Mostrar sua página \"sobre\"."
+
+#: inc/widgets/widgets.php:81
+msgid "Footer Sidebar Three"
+msgstr "Footer Sidebar Three"
+
+#: inc/widgets/widgets.php:71
+msgid "Footer Sidebar Two"
+msgstr "Footer Sidebar Two"
+
+#: inc/widgets/widgets.php:61
+msgid "Footer Sidebar One"
+msgstr "Footer Sidebar One"
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Error 404 page."
+msgstr "Mostrar widgets na página de erro 404."
+
+#: inc/widgets/widgets.php:51
+msgid "Error 404 Page Sidebar"
+msgstr "Erro 404 Page Sidebar"
+
+#: inc/widgets/widgets.php:43
+msgid "Show widgets at Front Page Content Section"
+msgstr "Mostrar Widgets na Seção de Conteúdo da Primeira Página"
+
+#: inc/widgets/widgets.php:41
+msgid "Front Page Sidebar"
+msgstr "Lateral da página inicial"
+
+#: inc/widgets/widgets.php:33
+msgid "Shows widgets at Left side."
+msgstr "Exibir os Widgets no lado Esquerdo"
+
+#: inc/widgets/widgets.php:23
+msgid "Shows widgets at Right side."
+msgstr "Exibir os Widgets no lado Direito"
+
+#: inc/functions.php:520
+msgid "Archives"
+msgstr "Arquivos"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/functions.php:518
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/functions.php:514
+msgid "Archives: %s"
+msgstr "Arquivo: %s"
+
+#: inc/functions.php:511
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Bate-papos"
+
+#: inc/functions.php:509
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Áudio"
+
+#: inc/functions.php:507
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: inc/functions.php:505
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/functions.php:503
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citações"
+
+#: inc/functions.php:501
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vídeos"
+
+#: inc/functions.php:499
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imagens"
+
+#: inc/functions.php:497
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerias"
+
+#: inc/functions.php:495
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Notas"
+
+#: inc/functions.php:492
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/functions.php:492
+msgid "Day: %s"
+msgstr "Dia: %s"
+
+#: inc/functions.php:490
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F \\d\\e Y"
+
+#: inc/functions.php:490
+msgid "Month: %s"
+msgstr "Mês: %s"
+
+#: inc/functions.php:488
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/functions.php:488
+msgid "Year: %s"
+msgstr "Ano: %s"
+
+#: inc/functions.php:486
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/functions.php:484
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/functions.php:482
+msgid "Category: %s"
+msgstr "Categoria: %s"
+
+#: inc/functions.php:390
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Copyright &copy; %1$s %2$s."
+
+#. #-#-#-#-#  himalayas.pot (Himalayas 1.0.8)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/functions.php:388
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: inc/functions.php:366
+msgid "Reply"
+msgstr "Resposta"
+
+#: inc/functions.php:361
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário aguarda moderação."
+
+#: inc/functions.php:353
+msgid "%1$s at %2$s"
+msgstr "%1$s em %2$s"
+
+#: inc/functions.php:350
+msgid "Post author"
+msgstr "Autor do post"
+
+#: inc/functions.php:335
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/functions.php:335
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions.php:224
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/functions.php:214
+msgid " % Comments"
+msgstr " % comentários"
+
+#: inc/functions.php:214
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: inc/functions.php:214
+msgid "0 Comment"
+msgstr "0 comentários"
+
+#: inc/functions.php:204
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+
+#: inc/customizer.php:427
+msgid "Show excerpt"
+msgstr "Mostrar o trecho do post (excerpt - resumo do post)"
+
+#: inc/customizer.php:426
+msgid "Show full post content"
+msgstr "Mostrar conteúdo completo do post"
+
+#: inc/customizer.php:422
+msgid "Toggle between displaying excerpts and full posts on your blog and archives."
+msgstr "Alternar entre a exibição trechos e posts completos em seu blog e arquivos."
+
+#: inc/customizer.php:411
+msgid "Excerpts or Full Posts option"
+msgstr "Opção de Trechos ou Posts Completos"
+
+#: inc/customizer.php:404
+msgid "Check to hide blog posts/static page on front page"
+msgstr "Marque para esconder os posts do blog e da página estática da página inicial"
+
+#: inc/customizer.php:393
+msgid "Hide Blog posts from the front page"
+msgstr "Ocultar os posts do Blog na primeira página"
+
+#: inc/customizer.php:387
+msgid "Himalayas Additional Options"
+msgstr "Opções adicionais do Himalayas"
+
+#: inc/customizer.php:385
+msgid "Contain additional options"
+msgstr "Contém opções adicionais"
+
+#: inc/customizer.php:372
+msgid "Write your Custom CSS"
+msgstr "Escreva seu CSS personalizado"
+
+#: inc/customizer.php:360
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: inc/customizer.php:338
+msgid "Choose Footer Layout Two"
+msgstr "Escolha o layout Dois"
+
+#: inc/customizer.php:337
+msgid "Choose Footer Layout One"
+msgstr "Escolha o layout Um"
+
+#: inc/customizer.php:333
+msgid "Select the Footer Layout"
+msgstr "Selecione o layout do rodapé"
+
+#: inc/customizer.php:322
+msgid "Footer Layout Options"
+msgstr "Opções de Layout do Rodapé"
+
+#: inc/customizer.php:314
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site"
+msgstr "Isto irá refletir nos links, botões e muito mais. Escolha a cor para combinar com seu site"
+
+#: inc/customizer.php:303
+msgid "Primary color option"
+msgstr "Opção primária de cor"
+
+#: inc/customizer.php:287
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post"
+msgstr "Selecione o layout padrão para posts únicos. Este layout será refletido em todas os posts exceto os que se já forem definido no próprio post"
+
+#: inc/customizer.php:275
+msgid "Default layout for single posts only"
+msgstr "Layout padrão para posts simples apenas."
+
+#: inc/customizer.php:260
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page"
+msgstr "Selecione o layout padrão para as páginas. Este layout será refletido em todas as páginas exceto que se já for definido na própria página"
+
+#: inc/customizer.php:248
+msgid "Default layout for pages only"
+msgstr "Layout padrão para páginas, apenas"
+
+#: inc/customizer.php:233
+msgid "Select default layout. This layout will be reflected in whole site archives, categories, search page etc. The layout for a single post and page can be controlled from below options"
+msgstr "Selecione o layout padrão. Este layout será refletido por todo o site, categoria, páginas de busca, etc. O layout para o posto único e página podem ser controlado pelas opções abaixo"
+
+#: inc/customizer.php:221
+msgid "Default layout"
+msgstr "Layout Padrão"
+
+#: inc/customizer.php:153
+msgid "Himalayas Design Options"
+msgstr "Opções de Design Himalayas"
+
+#: inc/customizer.php:152
+msgid "Contain all the Design related options"
+msgstr "Contém todas as opções de Design relatadas"
+
+#: inc/admin/class-himalayas-admin.php:365 inc/customizer.php:138
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer.php:124
+msgid "Enable the slider"
+msgstr "Ativar o Slider"
+
+#: inc/customizer.php:113
+msgid "3. If page do not have featured Image than that page will not included in slider show."
+msgstr "3. Se a página não tiver imagem destacada, ela não será mostrada no Slide Show."
+
+#: inc/customizer.php:113
+msgid "2. The recommended size for the slider image is 1600 x 780 pixels. For better functioning of slider use equal size images for each slide."
+msgstr "2. O tamanho recomendado para as imagens do slider é de 1600 x 780 pixels. Para um melhor funcionamento, use imagens de tamanhos iguais para cada slide."
+
+#: inc/customizer.php:113
+msgid "1. To display the Slider first check Enable the slider below. Now create the page for each slider and enter title, text and featured image. Choose that pages in the dropdown options."
+msgstr "1. Para exibir o Slider, primeiro selecione abaixo a opção Ativar o slider. Agora crie uma página para cada slider e digite o título, texto e imagem destacada. Escolha as páginas que estão nas opções de dropdown."
+
+#: inc/customizer.php:113
+msgid "Note"
+msgstr "Observação"
+
+#: inc/admin/class-himalayas-admin.php:370 inc/customizer.php:111
+msgid "Slider Settings"
+msgstr "Configurações de slider"
+
+#: inc/customizer.php:106
+msgid "Himalayas Slider Options"
+msgstr "Opções de slider Himalayas"
+
+#: inc/customizer.php:105
+msgid "Contain all the slider related options"
+msgstr "Contém todas as opções relacionadas a slider"
+
+#: inc/customizer.php:94
+msgid "Disable"
+msgstr "Desativar"
+
+#: inc/customizer.php:93
+msgid "Show Both"
+msgstr "Mostrar ambos"
+
+#: inc/customizer.php:92
+msgid "Header Text Only"
+msgstr "Apenas o Texto no Cabeçalho"
+
+#: inc/customizer.php:91
+msgid "Header Logo Only"
+msgstr "Apenas a Logo no Cabeçalho"
+
+#: inc/customizer.php:88
+msgid "Choose the required option"
+msgstr "Escolha a opção requerida"
+
+#: inc/customizer.php:73
+msgid "Header Logo Image Upload"
+msgstr "Envio de imagem do logo do cabeçalho"
+
+#: inc/customizer.php:59
+msgid "Header Title/Tagline and Logo"
+msgstr "Título/descrição e logo"
+
+#: inc/customizer.php:53
+msgid "Make header non transparent."
+msgstr "Tornar cabeçalho não-transparente."
+
+#: inc/customizer.php:42
+msgid "By default Header is transparent when slider is used."
+msgstr "Por padrão, o cabeçalho é transparente quando um slider é usado."
+
+#: inc/customizer.php:41
+msgid "Header Transparency"
+msgstr "Transparência do cabeçalho"
+
+#: inc/customizer.php:34
+msgid "Check to make header non-sticky"
+msgstr "Marque para não fixar o cabeçalho"
+
+#: inc/customizer.php:23
+msgid "Header is sticky by default."
+msgstr "Cabeçalho é fixo por padrão."
+
+#: inc/customizer.php:22
+msgid "Header Sticky/non-sticky"
+msgstr "Fixar cabeçalho/não fixar"
+
+#: inc/customizer.php:16
+msgid "Himalayas Header Options"
+msgstr "Opções de cabeçalho do Himalayas"
+
+#: inc/customizer.php:14
+msgid "Contain all the Header related options"
+msgstr "Contém todas as opções relacionadas ao cabeçalho"
+
+#: inc/admin/meta-boxes.php:124
+msgid "Show designation in Our Team Widget. </br>"
+msgstr "Mostrar designação no Widget Nosso time. </br>"
+
+#: inc/admin/meta-boxes.php:117
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> for icon class. For example: <strong>fa-mobile</strong>"
+msgstr "<a href=\"%s\" target=\"_blank\">Consulte aqui</a> cada Icon Class. Por exemplo: <strong>fa-mobile</strong>"
+
+#: inc/admin/meta-boxes.php:113
+msgid "If featured image is not used than display the icon in Services. </br>"
+msgstr "Se a imagem destacada não for usada então  mostrar o ícone em Serviços. </br>"
+
+#: inc/admin/meta-boxes.php:66
+msgid "team designation"
+msgstr "Designação de time"
+
+#: inc/admin/meta-boxes.php:59
+msgid "fontawesome Icons"
+msgstr "Ícones FontAwesome"
+
+#: inc/admin/meta-boxes.php:52
+msgid "No Sidebar Content Centered"
+msgstr "Sem barra lateral - conteúdo centralizado"
+
+#: inc/admin/meta-boxes.php:47
+msgid "No Sidebar Full Width"
+msgstr "Sem barra lateral - tela inteira"
+
+#: inc/admin/meta-boxes.php:42 inc/widgets/widgets.php:31
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+#: inc/admin/meta-boxes.php:37 inc/widgets/widgets.php:21
+msgid "Right Sidebar"
+msgstr "Barra lateral direita"
+
+#: inc/admin/meta-boxes.php:32
+msgid "Default Layout"
+msgstr "Layout Padrão"
+
+#: inc/admin/meta-boxes.php:22
+msgid "Our Team Designation"
+msgstr "Designação de Nosso time"
+
+#: inc/admin/meta-boxes.php:20
+msgid "Icon class"
+msgstr "Classe do ícone"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Escolha o layout"
+
+#: functions.php:45
+msgid "Footer Menu"
+msgstr "Menu do Rodapé"
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: content.php:45 content.php:50 inc/header-functions.php:62
+#: inc/widgets/widgets.php:238 inc/widgets/widgets.php:409
+#: inc/widgets/widgets.php:959
+msgid "Read more"
+msgstr "Ler mais"
+
+#: content-page.php:24 content-single.php:41
+msgid "Pages:"
+msgstr "Páginas"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Os comentários estão desativados."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Comentários mais recentes &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários mais antigos"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Navegação dos comentários"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Um comentário em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários em &ldquo;%2$s&rdquo;"
+
+#: 404.php:37
+msgid "error"
+msgstr "Erro"
+
+#: 404.php:35
+msgid "404"
+msgstr "404"
+
+#: 404.php:31
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Parece que nada foi encontrado aqui. Tente pesquisar novamente."
+
+#: 404.php:28
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ops! Essa página não pode ser encontrada."
+
+#. Author URI of the plugin/theme
+msgid "http://themegrill.com"
+msgstr "http://themegrill.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://themegrill.com/themes/himalayas/"
+msgstr "http://themegrill.com/themes/himalayas/"
