@@ -59,13 +59,20 @@
 		</div>
 	</div>
 	</div>
-
-	<div class="subpages">				
-		<?php himalayas_sidebar_select(); ?>
-		<?php $subpages = get_pages('child_of=2');
-		foreach($subpages as $subpage){
-			echo $subpage->post_content;
-			echo $metaValue = get_post_meta($subpage->ID, 'image', true);
-		}?>
+	
+	<div class="depoimentos-home">
+		<h2 class="produtos-home main-title">Depoimentos</h2>
+		<div class="slide-depoimentos">
+		<?php do_action('slideshow_deploy', '60'); ?>
+		</div>
 	</div>
+
+	<div class="contato-home">
+		<h2 class="produtos-home main-title">Contatos</h2>
+		<div class="slide-depoimentos">
+		<?php //do_action('slideshow_deploy', '60'); ?>
+		</div>
+	</div>
+	
+	
 <?php get_footer(); ?>

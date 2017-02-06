@@ -4355,3 +4355,26 @@ h2.main-title.produtos-home {
 .subpages {
     margin-top: 30px;
 }
+
+.sumir {
+    display: none;
+}
+
+.depoimentos-home {
+    width: 35%;
+    height: 400px;
+    margin: 70px auto;
+}
+
+.slide-depoimentos {
+    margin-top: 55px;
+}
+
+.slideshow_slide_text {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.contato-home{
+    background-color: #fff;
+}
