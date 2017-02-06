@@ -4285,6 +4285,13 @@ article {
     display: none;
 }
 
+div#home {
+    min-height: 100vh;
+}
+
+.slides{
+    min-height: 100vh;
+}
 
 /** formata elementos que tem backgrounds parallax **/
 .parallax {
@@ -4293,7 +4300,7 @@ article {
 	width: 100%;
 	max-width: 1920px;
 	position: relative;
-	min-height: 100%; 
+	min-height: 100vh; 
 	background-position: 50% 0;
 	background-repeat: repeat;
 	background-attachment: fixed;
@@ -4301,6 +4308,7 @@ article {
 
 .parallax-back{
     background: url(images/pattern-overlay.png) repeat scroll 0 0 rgba(0, 0, 0, 0.3);
+    min-height: 100vh;
 }
  
 /* Define backgrounds dos divs */
@@ -4342,10 +4350,11 @@ article {
     margin: 10px;
     /*border-radius: 5px;*/
     box-shadow: 2px 5px 10px #2f2b2b;
+    margin-top: 50%;
 }
 
 .wpcs_product_carousel_slider .another_carousel_header i {
-    top: 40% !important;
+    top: 55% !important;
 }
 
 h2.main-title.produtos-home {
@@ -4377,4 +4386,22 @@ h2.main-title.produtos-home {
 
 .contato-home{
     background-color: #fff;
+}
+
+#top-footer {
+    background: #74c0c3 none repeat scroll 0 0;
+    padding: 100px 0 60px;
+}
+
+#bottom-footer {
+    padding-top: 28px;
+    margin-bottom: -30px;
+}
+
+#colophon.footer-layout-two {
+    padding: 0;
+}
+
+.tg-column-wrapper {
+    padding-top: 15px;
 }

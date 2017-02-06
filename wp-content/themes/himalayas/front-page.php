@@ -48,7 +48,7 @@
 	<br />
 	<br />
 	<h2 class="produtos-home main-title">Produtos</h2>
-	<div id="produtos" class="parallax parallax-section" data-speed="15" style="background-image: url(<?php echo the_post_thumbnail_url();?>);">
+	<div id="produtos" class="parallax parallax-section" data-speed="15" style="background-image: url(http://localhost/ocean/wp-content/uploads/2017/02/arraial-do-cabo-pousada-da-prainha.jpeg<?php //echo the_post_thumbnail_url();?>);">
 		<div class="parallax-back">	
 			<div class="tg-container" >
 
@@ -58,7 +58,7 @@
 			</div>
 		</div>
 	</div>
-	</div>
+	<!--</div>-->
 	
 	<div class="depoimentos-home">
 		<h2 class="produtos-home main-title">Depoimentos</h2>
