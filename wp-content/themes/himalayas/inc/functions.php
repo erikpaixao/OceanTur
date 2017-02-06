@@ -647,7 +647,7 @@ register_sidebar(array(
 'name' => 'home-page',
 'before_widget' => '<div>',
 'after_widget' => '</div>',
-'before_title' => '<h2 class="main-title">',
-'after_title' => '</h2>',
+'before_title' => '<span>',
+'after_title' => '</span>',
 ));
 ?>

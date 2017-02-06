@@ -2077,7 +2077,7 @@ Video background css
 .main-title {
     display: table;
     letter-spacing: 2px;
-    margin: -30px auto 60px auto;
+    margin: -30px auto 0 auto;
     position: relative;
     font-family: 'Crimson Text', serif;
     text-transform: uppercase;
@@ -3063,7 +3063,7 @@ Video background css
 
 #colophon.footer-layout-two {
     background: #333333;
-    padding: 70px 0;
+    padding: 30px 0;
 }
 
 #colophon.footer-layout-two #bottom-footer {
@@ -3221,7 +3221,7 @@ Video background css
 
 #primary {
     float: left;
-    width: 67%;
+    /*width: 67%;*/
 }
 
 .no-sidebar #primary {
@@ -3401,7 +3401,7 @@ Video background css
 article {
     border-bottom: 1px solid #e1e1e1;
     margin-bottom: 70px;
-    padding-bottom: 70px;
+    /*padding-bottom: 70px;*/
 }
 
 .single-post article {
@@ -4279,9 +4279,38 @@ article {
 
 /* removing the search results title */
 
+
+
 .search .page-header {
     display: none;
 }
+
+
+/** formata elementos que tem backgrounds parallax **/
+.parallax {
+	color:#FFF;
+	margin-top: 70px;
+	width: 100%;
+	max-width: 1920px;
+	position: relative;
+	min-height: 100%; 
+	background-position: 50% 0;
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+.parallax-back{
+    background: url(images/pattern-overlay.png) repeat scroll 0 0 rgba(0, 0, 0, 0.3);
+}
+ 
+/* Define backgrounds dos divs */
+#produtos {
+	-webkit-box-shadow:inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
+	-moz-box-shadow:inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
+	-ms-box-shadow:inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
+	-o-box-shadow: inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
+	box-shadow: inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
+} 
 
 .another_carousel_header > .title {
     display: none
@@ -4304,4 +4333,25 @@ article {
     background-color: #00b9eb !important;
     border-color: #00b9eb !important;
     font-size: 14px;
+}
+
+.product_container {
+    background-color: rgba(255, 255, 255, 0.93);
+    padding: 10px;
+    padding-bottom: 15px;
+    margin: 10px;
+    /*border-radius: 5px;*/
+    box-shadow: 2px 5px 10px #2f2b2b;
+}
+
+.wpcs_product_carousel_slider .another_carousel_header i {
+    top: 40% !important;
+}
+
+h2.main-title.produtos-home {
+    margin-bottom: -30px !important;
+}
+
+.subpages {
+    margin-top: 30px;
 }

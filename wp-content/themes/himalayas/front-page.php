@@ -29,7 +29,7 @@
 		               while ( have_posts() ) : the_post();
 
 		                  if ( is_front_page() && is_home() ) {
-		                  	get_template_part( 'content', '' );
+		                  	get_template_part( 'content', 'page' );
 		                  } elseif ( is_front_page() ) {
 		                  	get_template_part( 'content', 'page' );
 		                  }
@@ -41,19 +41,31 @@
 		            endif; ?>
 					
 			      </div>
-
-			      <?php himalayas_sidebar_select(); ?>
 			   </div>
 			</main>
 		<?php endif; ?>
 	</div>
+	<br />
+	<br />
+	<h2 class="produtos-home main-title">Produtos</h2>
+	<div id="produtos" class="parallax parallax-section" data-speed="15" style="background-image: url(<?php echo the_post_thumbnail_url();?>);">
+		<div class="parallax-back">	
+			<div class="tg-container" >
 
-	<div class="parallax">
-		<div class="tg-container">
+				<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar("home-page") ) : ?>
+				<?php endif ;?>
 
-			<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar("home-page") ) : ?>
-			<?php endif ;?>
-
+			</div>
 		</div>
+	</div>
+	</div>
+
+	<div class="subpages">				
+		<?php himalayas_sidebar_select(); ?>
+		<?php $subpages = get_pages('child_of=2');
+		foreach($subpages as $subpage){
+			echo $subpage->post_content;
+			echo $metaValue = get_post_meta($subpage->ID, 'image', true);
+		}?>
 	</div>
 <?php get_footer(); ?>
