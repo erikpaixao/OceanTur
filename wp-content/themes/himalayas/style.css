@@ -4370,8 +4370,7 @@ h2.main-title.produtos-home {
 }
 
 .depoimentos-home {
-    width: 35%;
-    height: 400px;
+    height: 330px;
     margin: 70px auto;
 }
 
@@ -4420,4 +4419,14 @@ h2.main-title.produtos-home {
 figure img {
     min-height: 100vh;
     min-width: 100vw;
+}
+
+.endereco {
+    font-size: 17px;
+    font-weight: 500;
+    color: #2c3d50;
+}
+
+.endereco i{
+    font-size: 20px;
 }
