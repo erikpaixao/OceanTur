@@ -22,7 +22,7 @@
 	   if( get_theme_mod( 'himalayas_hide_blog_front' , 0 ) != 1 ): ?>
 		   <main id="main" class="clearfix <?php echo $himalayas_layout; ?>">
 				<div class="tg-container">
-					<div id="primary" class="content-area">
+					<div id="primary" class="content-area descricao-home">
 
 		            <?php if ( have_posts() ):
 
