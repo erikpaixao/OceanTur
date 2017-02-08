@@ -3627,6 +3627,160 @@ article {
     padding-bottom: 10px;
 }
 
+/* removing the search results title */
+
+
+
+.search .page-header {
+    display: none;
+}
+
+div#home {
+    min-height: 100vh;
+}
+
+.slides{
+    min-height: 100vh;
+}
+
+/** formata elementos que tem backgrounds parallax **/
+.parallax {
+	color:#FFF;
+	margin-top: 70px;
+	width: 100%;
+	max-width: 1920px;
+	position: relative;
+	min-height: 100vh; 
+	background-position: 50% 0;
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+.parallax-back{
+    background: url(images/pattern-overlay.png) repeat scroll 0 0 rgba(0, 0, 0, 0.3);
+    min-height: 100vh;
+}
+ 
+/* Define backgrounds dos divs */
+#produtos {
+	-webkit-box-shadow:inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
+	-moz-box-shadow:inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
+	-ms-box-shadow:inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
+	-o-box-shadow: inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
+	box-shadow: inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
+} 
+
+.another_carousel_header > .title {
+    display: none
+}
+
+article {
+    border-bottom: none;
+}
+
+
+.add_to_cart_button {
+    color: #00b9eb !important;
+    background-color: #fff !important; 
+    border-color: #00b9eb !important;
+    font-size: 14px;
+}
+
+.add_to_cart_button:hover {
+    color: #fff !important;
+    background-color: #00b9eb !important;
+    border-color: #00b9eb !important;
+    font-size: 14px;
+}
+
+.product_container {
+    background-color: rgba(255, 255, 255, 0.93);
+    padding: 10px;
+    padding-bottom: 15px;
+    margin: 10px;
+    /*border-radius: 5px;*/
+    box-shadow: 2px 5px 10px #2f2b2b;
+    margin-top: 70%;
+    
+}
+
+.wpcs_product_carousel_slider .another_carousel_header i {
+    top: 60% !important;
+}
+
+h2.main-title.produtos-home {
+    margin-bottom: -30px !important;
+}
+
+.subpages {
+    margin-top: 30px;
+}
+
+.sumir {
+    display: none;
+}
+
+.depoimentos-home {
+    height: 330px;
+    margin: 70px auto;
+}
+
+.slide-depoimentos {
+    margin-top: 55px;
+}
+
+.slideshow_slide_text {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.contato-home{
+    background-color: #fff;
+}
+
+#top-footer {
+    background: #74c0c3 none repeat scroll 0 0;
+    padding: 100px 0 60px;
+}
+
+#bottom-footer {
+    padding-top: 28px;
+    margin-bottom: -30px;
+}
+
+#colophon.footer-layout-two {
+    padding: 0;
+}
+
+.tg-column-wrapper {
+    padding-top: 15px;
+}
+
+
+.tela-inteira{
+    min-height: 100vh; 
+}
+
+.descricao-home {
+    max-width: 80% !important;
+    margin: 10% auto;
+    float: initial !important;
+}
+
+figure img {
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.endereco {
+    font-size: 17px;
+    font-weight: 500;
+    color: #2c3d50;
+}
+
+.endereco i{
+    font-size: 20px;
+}
 
 /*--------------------------------------------------------------
     Responsive css
@@ -3672,6 +3826,22 @@ article {
 /* Large desktop */
 
 @media (max-width: 1200px) {
+    .parallax {
+        min-height: initial;
+    }
+
+    .product_container {
+        margin-top: 40%;
+        margin-bottom: 40%;
+    }
+
+    .wpcs_product_carousel_slider .another_carousel_header i {
+        top: 50% !important;
+    }
+
+    .parallax-back {
+        min-height: initial;
+    }
     .tg-container {
         width: 99%;
         padding: 0 1%;
@@ -3791,6 +3961,7 @@ article {
         font-weight: 700;
         line-height: 250px;
     }
+
 }
 
 
@@ -4051,6 +4222,18 @@ article {
 }
 
 @media (max-width: 600px) {
+    figure img {
+        min-height: initial;
+        min-width: initial;
+    }
+    div#home {
+        min-height: initial;
+        margin-bottom: 50px;
+    }
+
+    .slides{
+        min-height: initial;
+    }
     .caption-sub {
         display: none;
     }
@@ -4277,156 +4460,3 @@ article {
 }
 
 
-/* removing the search results title */
-
-
-
-.search .page-header {
-    display: none;
-}
-
-div#home {
-    min-height: 100vh;
-}
-
-.slides{
-    min-height: 100vh;
-}
-
-/** formata elementos que tem backgrounds parallax **/
-.parallax {
-	color:#FFF;
-	margin-top: 70px;
-	width: 100%;
-	max-width: 1920px;
-	position: relative;
-	min-height: 100vh; 
-	background-position: 50% 0;
-	background-repeat: repeat;
-	background-attachment: fixed;
-}
-
-.parallax-back{
-    background: url(images/pattern-overlay.png) repeat scroll 0 0 rgba(0, 0, 0, 0.3);
-    min-height: 100vh;
-}
- 
-/* Define backgrounds dos divs */
-#produtos {
-	-webkit-box-shadow:inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
-	-moz-box-shadow:inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
-	-ms-box-shadow:inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
-	-o-box-shadow: inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
-	box-shadow: inset 0 0 20px 0px rgba(0, 0, 0, 0.38);
-} 
-
-.another_carousel_header > .title {
-    display: none
-}
-
-article {
-    border-bottom: none;
-}
-
-
-.add_to_cart_button {
-    color: #00b9eb !important;
-    background-color: #fff !important; 
-    border-color: #00b9eb !important;
-    font-size: 14px;
-}
-
-.add_to_cart_button:hover {
-    color: #fff !important;
-    background-color: #00b9eb !important;
-    border-color: #00b9eb !important;
-    font-size: 14px;
-}
-
-.product_container {
-    background-color: rgba(255, 255, 255, 0.93);
-    padding: 10px;
-    padding-bottom: 15px;
-    margin: 10px;
-    /*border-radius: 5px;*/
-    box-shadow: 2px 5px 10px #2f2b2b;
-    margin-top: 70%;
-}
-
-.wpcs_product_carousel_slider .another_carousel_header i {
-    top: 60% !important;
-}
-
-h2.main-title.produtos-home {
-    margin-bottom: -30px !important;
-}
-
-.subpages {
-    margin-top: 30px;
-}
-
-.sumir {
-    display: none;
-}
-
-.depoimentos-home {
-    height: 330px;
-    margin: 70px auto;
-}
-
-.slide-depoimentos {
-    margin-top: 55px;
-}
-
-.slideshow_slide_text {
-    text-align: center;
-    vertical-align: middle;
-}
-
-.contato-home{
-    background-color: #fff;
-}
-
-#top-footer {
-    background: #74c0c3 none repeat scroll 0 0;
-    padding: 100px 0 60px;
-}
-
-#bottom-footer {
-    padding-top: 28px;
-    margin-bottom: -30px;
-}
-
-#colophon.footer-layout-two {
-    padding: 0;
-}
-
-.tg-column-wrapper {
-    padding-top: 15px;
-}
-
-
-.tela-inteira{
-    min-height: 100vh; 
-}
-
-.descricao-home {
-    max-width: 80% !important;
-    margin: 10% auto;
-    float: initial !important;
-}
-
-figure img {
-    min-height: 100vh;
-    min-width: 100vw;
-}
-
-.endereco {
-    font-size: 17px;
-    font-weight: 500;
-    color: #2c3d50;
-}
-
-.endereco i{
-    font-size: 20px;
-}
