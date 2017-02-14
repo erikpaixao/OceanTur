@@ -39,6 +39,7 @@
       </div>
    </footer>
    <a href="#" class="scrollup"><i class="fa fa-angle-up"> </i> </a>
+   <?php echo do_shortcode('[google-translator]'); ?>
 
 	</div> <!-- #Page -->
 <?php wp_footer(); ?>
